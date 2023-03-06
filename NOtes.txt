@@ -1,0 +1,8 @@
+git config --local user.name "nadeen mohamed"
+git config --local user.email "nadeen.mohamed117@gmail.com"
+
+--local
+--global
+--system
+
+git status
