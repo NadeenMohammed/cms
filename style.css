@@ -1,0 +1,50 @@
+.one
+{
+    color: brown;
+    text-align: center;
+}
+em 
+{
+    color: rosybrown;
+}
+header {
+    width: 100%;
+}
+img{
+    width: 5%;
+    /* position: relative; */
+    
+}
+.img-side{
+    border-right: .1rem solid #901b20;
+    /* height: 3.2rem; */
+    margin-top: .8rem;
+    margin-right: 0.8rem;
+    
+}
+.head 
+{
+    display: flex;
+    margin-left: 1rem;
+
+}
+.head p
+{
+    color: gray;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.home
+{
+    width: 100%;
+   
+}
+.home img
+{
+    width: 100%;
+    height: 96vh;
+}

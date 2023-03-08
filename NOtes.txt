@@ -6,3 +6,7 @@ git config --local user.email "nadeen.mohamed117@gmail.com"
 --system
 
 git status
+======
+git log
+git log --oneline
+git remot add origin
