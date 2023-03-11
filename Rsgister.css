@@ -1,0 +1,53 @@
+
+section {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 40px;
+    
+}
+
+.table {
+    border: 5px solid yellowgreen;
+    padding: 10px;
+
+
+}
+.table p 
+{
+    border: 1px dashed rgb(205, 60, 50);
+    background-color: rgb(147, 175, 91);
+}
+.table h2{
+    color: yellowgreen;
+}
+.tdd
+{
+    background-color: rgb(45, 172, 121);
+}
+nav ul {
+    display:flex;
+    list-style: none;
+}
+nav ul li a
+{
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: aliceblue;
+}
+nav{
+    background-color: rgb(38, 52, 52);
+    padding: 15px;
+    display: flex; 
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    
+}
+nav ul li a:hover
+{
+border: 1px solid red;
+padding: 5px;
+background-color: red;
+}
